@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestngSuite" duration-ms="162066" started-at="2019-01-12T13:31:39Z" finished-at="2019-01-12T13:34:21Z">
+    <groups>
+    </groups>
+    <test name="TestngTest" duration-ms="162066" started-at="2019-01-12T13:31:39Z" finished-at="2019-01-12T13:34:21Z">
+      <class name="com.test.AddProductTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.AddProductTest@2ed94a8b]" name="setUp" is-config="true" duration-ms="39779" started-at="2019-01-12T13:33:25Z" finished-at="2019-01-12T13:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addProductMethod()[pri:0, instance:com.test.AddProductTest@2ed94a8b]" name="addProductMethod" duration-ms="16300" started-at="2019-01-12T13:34:04Z" finished-at="2019-01-12T13:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.AddProductTest@2ed94a8b]" name="tearDown" is-config="true" duration-ms="65" started-at="2019-01-12T13:34:21Z" finished-at="2019-01-12T13:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.AddProductTest -->
+      <class name="com.test.ProfileTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.ProfileTest@73f792cf]" name="setUp" is-config="true" duration-ms="41536" started-at="2019-01-12T13:32:30Z" finished-at="2019-01-12T13:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profileMethod()[pri:0, instance:com.test.ProfileTest@73f792cf]" name="profileMethod" duration-ms="12800" started-at="2019-01-12T13:33:12Z" finished-at="2019-01-12T13:33:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.ProfileTest@73f792cf]" name="tearDown" is-config="true" duration-ms="133" started-at="2019-01-12T13:33:24Z" finished-at="2019-01-12T13:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.ProfileTest -->
+      <class name="com.test.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.LoginTest@79698539]" name="setUp" is-config="true" duration-ms="40627" started-at="2019-01-12T13:31:39Z" finished-at="2019-01-12T13:32:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginMethod()[pri:0, instance:com.test.LoginTest@79698539]" name="loginMethod" duration-ms="8688" started-at="2019-01-12T13:32:19Z" finished-at="2019-01-12T13:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginTest@79698539]" name="tearDown" is-config="true" duration-ms="2105" started-at="2019-01-12T13:32:28Z" finished-at="2019-01-12T13:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginTest -->
+    </test> <!-- TestngTest -->
+  </suite> <!-- TestngSuite -->
+</testng-results>

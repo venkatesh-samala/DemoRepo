@@ -1,0 +1,10 @@
+com\reporter\CustomReporter.class
+com\test\AddProductTest.class
+com\pages\AdminLoginPage.class
+com\test\BaseTest.class
+com\pages\ProductsPage.class
+com\pages\ProfilePage.class
+com\pages\DashboardPage.class
+com\test\ProfileTest.class
+com\test\LoginTest.class
+com\pages\AddProductPage.class
